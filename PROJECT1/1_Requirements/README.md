@@ -4,7 +4,7 @@
 This is a project based on REMOTE KEYLESS ENTRY which helps to unlock 
 and lock the car doors with other functions also like turning Off/On Alarm and
 nearby approach. Remote keyless entry system contain a short-range radio transmitter,
-and must be within a certain range, usually 5–20 meters, of the car to work.
+and must be within a certain range, usually 5-20 meters, of the car to work.
 When a button is pushed, it sends a coded signal by radio waves to a receiver 
 unit in the car, which will do the preferred functions.
 
