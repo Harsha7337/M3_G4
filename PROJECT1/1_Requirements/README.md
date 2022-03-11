@@ -21,8 +21,9 @@ unit in the car, which will do the preferred functions.
 * Receiver provided to receive the signal
 
 ## 5W's and 1H
-
+![5W 1H](https://user-images.githubusercontent.com/98849090/157836438-4c969c68-5645-494f-b818-9c52547a2ef7.png)
 
 
 
 ## SWOT
+![SWOT](https://user-images.githubusercontent.com/98849090/157830209-d6c72982-d75f-49db-a9d3-d8c878601228.png)
