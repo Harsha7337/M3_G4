@@ -44,4 +44,3 @@ reciever recieves the signal.
 |LLR4|If the switch is pressed quadraple times, ON all LED's in anti-clockwise manner|
 
 
-
