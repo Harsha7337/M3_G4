@@ -11,3 +11,7 @@
 
 ## LOW LEVEL DIAGRAM:
 ![SLLR](https://user-images.githubusercontent.com/98849090/157885190-ced9fa07-4960-405e-9d4c-78318453d5ee.png)
+
+## BLOCK DIAGRAM
+![BD](https://user-images.githubusercontent.com/98849090/157919979-fc47fb5c-72d7-4e54-b162-1b845ccfd2a5.png)
+
