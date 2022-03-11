@@ -1,5 +1,5 @@
 # REQUIREMENTS:    
-## Introduction:
+## INTRODUCTION:
 
 This is a project based on Bicom system which helps to display the status of the car doors, status of the
 window,s of four sides, status of Alarm and the Car battery information where transmitter sends the signal and 
