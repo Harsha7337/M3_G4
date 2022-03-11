@@ -11,10 +11,10 @@
 
 | Test | Description | Input | Actual Output |
 | --- | --- | --- | --- |
-| 01 | lock | switch pressed once | shall on all led's |
-| 02 | unlock | switch pressed twice | shall off all led's |
-| 03 | alarm activate/deactivate | switch pressed thrice times | shall on led's once clockwise |
-| 04| approach light |	switch pressed quadraple times | shall on led's once anti-clockwise |
+| 01 | Lock | Switch pressed once | Shall on all LED's |
+| 02 | Unlock | Switch pressed twice | Shall off all LED's |
+| 03 | Alarm activate/deactivate | Switch pressed thrice times | Shall on LED's once clockwise |
+| 04| Approach light |	Switch pressed quadraple times | Shall on LED's once anti-clockwise |
 
 | Brief description |
 | --- | 
