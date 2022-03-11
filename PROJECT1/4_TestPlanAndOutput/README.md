@@ -9,9 +9,9 @@
 
 # LOW LEVEL TEST PLAN
 
-|Test|Description|Input|Expected output|Actual Output|
-|---|-------------|----------|-------------|-----------------|
-|01|lock|switch pressed once|shall on all led's|shall on all led's|
-|02|unlock|switch pressed twice|shall off all led's|shall off all led's|
-|03|alarm activate/deactivate|switch pressed thrice times|shall on led's once clockwise|shall on led's once clockwise|
-|04|approach light|	switch pressed quadraple times|shall on led's once anti-clockwise|shall on led's once anti-clockwise|
+| Test | Description | Input | Actual Output |
+| --- | --- | --- | --- |
+| 01 | lock | switch pressed once | shall on all led's |
+| 02 | unlock | switch pressed twice | shall off all led's |
+| 03 | alarm activate/deactivate | switch pressed thrice times | shall on led's once clockwise |
+| 04| approach light |	switch pressed quadraple times | shall on led's once anti-clockwise |
