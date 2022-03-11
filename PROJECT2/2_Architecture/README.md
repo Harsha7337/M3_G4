@@ -1,7 +1,7 @@
 ## Architecture
 # Behavioural Diagram
 
-![Screenshot (28)](https://user-images.githubusercontent.com/98837074/157863544-db04b642-9bc2-4120-aae3-cdbb3aa29141.png)
+![.](https://user-images.githubusercontent.com/98837074/157863544-db04b642-9bc2-4120-aae3-cdbb3aa29141.png)
 
 # Methods:
 
@@ -10,4 +10,4 @@
 3) Followed the exact symbols to make the understanding easier
 4) Detailed explanation in Low level Behavioural and Structural Diagrams
 
-![Screenshot (30)](https://user-images.githubusercontent.com/98837074/157865330-ca6c9841-7a7c-4dde-9c24-76c25ab0c71d.png)
+![.)](https://user-images.githubusercontent.com/98837074/157865330-ca6c9841-7a7c-4dde-9c24-76c25ab0c71d.png)
