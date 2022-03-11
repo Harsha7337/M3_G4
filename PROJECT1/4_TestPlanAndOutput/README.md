@@ -16,7 +16,7 @@
 | 03 | Alarm activate/deactivate | Switch pressed thrice times | Shall on LED's once clockwise |
 | 04| Approach light |	Switch pressed quadraple times | Shall on LED's once anti-clockwise |
 
-| Brief description |
+| Brief description of OUTPUT |
 | --- | 
 | Press butoon one time --> The car will be locked |
 | Press button two times --> The car will be unlocked |
