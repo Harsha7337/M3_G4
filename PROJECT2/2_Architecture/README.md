@@ -12,5 +12,5 @@
 
 ![.)](https://user-images.githubusercontent.com/98837074/157865330-ca6c9841-7a7c-4dde-9c24-76c25ab0c71d.png)
 
-## BLOCK DIAGRAM
+## BLOCK DIAGRAM:
 ![BlOCK_DIAGRAM](https://user-images.githubusercontent.com/98849090/157920802-911a8033-5840-427a-b9af-979be60835ba.png)
