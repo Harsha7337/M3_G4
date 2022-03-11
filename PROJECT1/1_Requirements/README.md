@@ -9,7 +9,7 @@ When a button is pushed, it sends a coded signal by radio waves to a receiver
 unit in the car, which will do the preferred functions.
 
 ## INPUT FUNCTIONS:
-* In SINGLE click, the car will be loacked
+* In SINGLE click, the car will be loCKED
 * In DOUBLE clicks, the car will be unlocked
 * In TRIPLE clicks, On/OFF of the alarm system of the car
 * In QUADRUPLE clicks, Theft security system activated
