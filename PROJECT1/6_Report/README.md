@@ -1,5 +1,5 @@
- # REQUIREMENTS    
-## Introduction
+ # REQUIREMENTS:    
+## Introduction:
 
 This is a project based on REMOTE KEYLESS ENTRY which helps to unlock 
 and lock the car doors with other functions also like turning Off/On Alarm and
@@ -8,27 +8,27 @@ and must be within a certain range, usually 5-20 meters, of the car to work.
 When a button is pushed, it sends a coded signal by radio waves to a receiver 
 unit in the car, which will do the preferred functions.
 
-## INPUT FUNCTIONS
+## INPUT FUNCTIONS:
 * In SINGLE click, the car will be loacked
 * In DOUBLE clicks, the car will be unlocked
 * In TRIPLE clicks, On/OFF of the alarm system of the car
 * In QUADRUPLE clicks, Theft security system activated
 
-## STATE OF ART
+## STATE OF ART:
 * Buttons and LED's are installed in REmote keyless entry system
 * Lock/Unlock, Alarm and Approach light Activation/Deactivation are provided
 * Transmitter is provide to transmit the signal
 * Receiver provided to receive the signal
 
-## 5W's and 1H
+## 5W's and 1H:
 ![5W 1H](https://user-images.githubusercontent.com/98849090/157836438-4c969c68-5645-494f-b818-9c52547a2ef7.png)
 
 
 
-## SWOT
+## SWOT:
 ![SWOT](https://user-images.githubusercontent.com/98849090/157830209-d6c72982-d75f-49db-a9d3-d8c878601228.png)
 
-# High Level Requirements
+# High Level Requirements:
 
 |Id|High Level Requirements|
 |---|-----------------------|
@@ -37,7 +37,7 @@ unit in the car, which will do the preferred functions.
 |HL03|System contains provided with Approach Light|
 |HL04|System must be made as Hack Proof|
 
-# Low Level Requirements
+# Low Level Requirements:
 
 |Id|     low Level Requirements|
 |---|-----------------------| 
@@ -46,10 +46,10 @@ unit in the car, which will do the preferred functions.
 |LLR3|If the switch is pressed three times, ON all LED's in clockwise manner|
 |LLR4|If the switch is pressed FOUR times, ON all LED's in anti-clockwise manner|
 
-## BLOCK DIAGRAM
+## BLOCK DIAGRAM:
 ![BD](https://user-images.githubusercontent.com/98849090/157919979-fc47fb5c-72d7-4e54-b162-1b845ccfd2a5.png)
 
-## OUTPUT
+## OUTPUT:
 1] Car door's will be locked
 2] Car door's will be unlocked
 3] alarm activaton/Deactivation
