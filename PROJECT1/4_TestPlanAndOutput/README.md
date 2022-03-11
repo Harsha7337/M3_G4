@@ -1,4 +1,4 @@
-# HIGH LEVEL TEST PLAN
+# HIGH LEVEL TEST PLAN:
 
 | Test ID | Description | Input | output | 
 | --- | --- | --- | --- | 
@@ -7,7 +7,7 @@
 | 03 | Alarm ON/OFF | 3 times Button Press| Alarm ON/OFF | 
 | 04 | Approach Light | 4 times Button Press | Approch Light On |  
 
-# LOW LEVEL TEST PLAN
+# LOW LEVEL TEST PLAN:
 
 | Test | Description | Input | Actual Output |
 | --- | --- | --- | --- |
