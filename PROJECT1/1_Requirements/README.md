@@ -9,15 +9,15 @@ When a button is pushed, it sends a coded signal by radio waves to a receiver
 unit in the car, which will do the preferred functions.
 
 ## INPUT FUNCTIONS:
-* In SINGLE click, the car will be loCKED
+* In SINGLE click, the car will be locked
 * In DOUBLE clicks, the car will be unlocked
 * In TRIPLE clicks, On/OFF of the alarm system of the car
-* In QUADRUPLE clicks, Theft security system activated
+* In QUADRUPLE clicks, Theft security system will be activated.
 
 ## STATE OF ART:
-* Buttons and LED's are installed in REmote keyless entry system
-* Lock/Unlock, Alarm and Approach light Activation/Deactivation are provided
-* Transmitter is provide to transmit the signal
+* Buttons and LED's are installed in remote keyless entry system.
+* Lock/Unlock, Alarm and Approach light Activation/Deactivation is provided.
+* Transmitter is provided for transmitting the signal.
 * Receiver provided to receive the signal
 
 ## 5W's and 1H:
