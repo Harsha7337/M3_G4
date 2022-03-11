@@ -6,16 +6,16 @@ window,s of four sides, status of Alarm and the Car battery information where tr
 reciever recieves the signal.
 
 ## INPUT FUNCTIONS:
-* In SINGLE click, Windows status will be shown
-* In DOUBLE clicks, Alarm status will be shown
-* In TRIPLE clicks, Battery status will be shown
-* In QUADRUPLE clicks, Car doors status will be shown
+* In SINGLE click, Windows status will be shown.
+* In DOUBLE clicks, Alarm status will be shown.
+* In TRIPLE clicks, Battery status will be shown.
+* In QUADRUPLE clicks, Car doors status will be shown.
 
 ## STATE OF ART:
-* Buttons and LED's are installed in REmote keyless entry system
-* Shows each and every information when the buttons are pressed in  
-* Transmitter is provide to transmit the signal
-* Receiver provided to receive the signal
+* Buttons and LED's are installed in REmote keyless entry system.
+* Shows each and every information when the buttons are pressed in.  
+* Transmitter is provide to transmit the signal.
+* Receiver provided to receive the signal.
 
 ## 5W's and 1H:
 ![5W 1H](https://user-images.githubusercontent.com/98849090/157836438-4c969c68-5645-494f-b818-9c52547a2ef7.png)
