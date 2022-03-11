@@ -25,7 +25,7 @@ reciever recieves the signal.
 ## SWOT
 ![SWOT](https://user-images.githubusercontent.com/98849090/157830209-d6c72982-d75f-49db-a9d3-d8c878601228.png)
 
-# High Level Requirements
+# High Level Requirements:
 
 |Id|High Level Requirements|
 |---|-----------------------|
@@ -34,7 +34,7 @@ reciever recieves the signal.
 |HL03|System shall display Battery status of the car|
 |HL04|System shall display Door status of the car|
 
-# Low Level Requirements
+# Low Level Requirements:
 
 |Id|     low Level Requirements|
 |---|-----------------------| 
