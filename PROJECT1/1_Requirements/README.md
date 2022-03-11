@@ -27,3 +27,23 @@ unit in the car, which will do the preferred functions.
 
 ## SWOT
 ![SWOT](https://user-images.githubusercontent.com/98849090/157830209-d6c72982-d75f-49db-a9d3-d8c878601228.png)
+
+# High Level Requirements
+
+|Id|High Level Requirements|
+|---|-----------------------|
+|HLR1|It shall print window status of the car|
+|HL02|It shall print alarm status of the car|
+|HL03|It shall print car battery information|
+|HL04|It shall door status of the car|
+
+# Low Level Requirements
+
+|Id|Low Level Requirements for HL1|ID|Low Level Requirements HL2|
+|---|-----------------------|--|----------------------------|
+|LLR1.1|If the switch is pressed once, ON all LED's	|LLR2.1|If the switch is pressed twice, OFF LED's|
+
+
+|Id|Low Level Requirements for HL3|ID|Low Level Requirements HL4|
+|---|-----------------------|--|----------------------------|
+|LLR3.1|If the switch is pressed three times, ON all LED's in clockwise manner|LLR4.1|If the switch is pressed FOUR times, ON all LED's in anti-clockwise manner|
