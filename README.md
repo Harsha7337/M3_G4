@@ -1,6 +1,11 @@
 # Module3_group4
 ## GROUP PROJECT:
 
+## BADGES
+[![Contribution Check - Git Inspector](https://github.com/Harsha7337/M3_G4/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/Harsha7337/M3_G4/actions/workflows/Git_inspector.yml)
+![.](https://api.codiga.io/project/31924/score/svg)
+![.](https://api.codiga.io/project/31924/status/svg)
+
 * REMOTE KEYLESS ENTRY
  * BICOM SYSTEM
 ### FOLDER STRUCTURE
